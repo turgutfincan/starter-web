@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name> master
+    <name> master  herkese teşkür
 
 # TECHNOLOGY COLOPHON
 
