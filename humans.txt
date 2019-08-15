@@ -3,13 +3,13 @@
 
 # TEAM
 
-    turgut fincan  turgutfincan@hotmail.com @turgutfincan
+    turgut fincan  turgutfincan@hotmail.com @turgutfincan master
 
 # THANKS
 
-    <name>
+    <name> master
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3 master
     jQuery, Modernizr
